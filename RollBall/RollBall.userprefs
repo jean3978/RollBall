@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="RollBall.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OrcCharacter.cs">
+    <Files>
+      <File FileName="Assets\mini_orc_free\script\character.js" Line="11" Column="27" />
+      <File FileName="Assets\OrcCharacter.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
